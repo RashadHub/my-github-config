@@ -132,6 +132,13 @@ I enjoy building practical software solutions with clean, maintainable code and 
 ---
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RashadHub&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+<p align="center">
   <i>Building software, learning continuously, and turning ideas into real-world solutions.</i>
 </p>
+
+
 
