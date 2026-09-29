@@ -91,7 +91,7 @@ I enjoy building practical software solutions with clean, maintainable code and 
 
 |                                           Project                                           | Description                                                                                                                          |                   Technologies                   |
 | :-----------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------: |
-|       🌧️ **[Rainfall Prediction](https://github.com/RashadHub/Rainfall-Prediction)**       | A Machine Learning project that predicts whether rainfall will occur the following day using weather data from multiple sources.     | `Python` `Pandas` `Scikit-learn` `Random Forest` |
+|       🌧️ **[Rainfall Prediction](https://github.com/RashadHub/Rainfall-Prediction)**       | A Machine Learning project that predicts whether rainfall will occur the following day using weather data from multiple sources.     | `Python` `Pandas` `Scikit-learn` |
 
 ---
 
